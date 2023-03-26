@@ -14,6 +14,7 @@ html {
 .box {
   width: 250px;
   height: 340px;
+  min-height: fit-content;
   background-color: #ffffff;
   margin: auto;
   position: absolute;
